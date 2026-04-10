@@ -1,2 +1,0 @@
-# SharedLibrary
-jenkins sharedfiles
